@@ -188,7 +188,7 @@
     /* THEME CONFIG */
   @media (prefers-color-scheme: light) {
     .body {
-      --color-text: white;
+      --color-text: black;
       --color-letterbg: transparent;
       --color-gradient: transparent;
     }
