@@ -185,7 +185,9 @@
         text-orientation: upright;
     }
 
-    /* THEME CONFIG */
+    /* LIGHT THEME CONFIG */
+    
+/*
   @media (prefers-color-scheme: light) {
     .body {
       --color-text: black;
@@ -197,6 +199,7 @@
       --color-bg: transparent;
     }
   }
+*/
 
       </style>
       
