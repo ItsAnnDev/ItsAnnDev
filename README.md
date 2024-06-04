@@ -1,4 +1,6 @@
-<img src="header.svg" style="">
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;">
+</div>
 
 <h1>Skills</h1>
 <h3 align="center">Fullstack Developer</h3>
